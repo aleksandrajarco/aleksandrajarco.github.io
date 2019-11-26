@@ -45,7 +45,19 @@ header h2 {
      padding: 0 20px;
      margin: 0;
 }
+.strong {
+	opacity: 1.0;
+}
 
+.medium {
+	opacity: 0.7;
+}
+
+.basic {
+	opacity: 0.4;}
+.checked {
+color: #eb374b;
+}
  .dev-item {
      display: inline-block;
      line-height: 14px;
